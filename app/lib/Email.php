@@ -9,8 +9,8 @@ use Firebase\JWT\JWT,
 
 class Email
 {
-    private static $email = "premerpage@gmail.com";
-    private static $password = "H1H2H3H4H5";
+    private static $email = "*****@gmail.com";
+    private static $password = "*****";
     private static $url = "https://premersite.000webhostapp.com/public/auth";//"http://localhost/Premer/api/public/auth";
     private static $secret_key = "Tomate11@";
 
